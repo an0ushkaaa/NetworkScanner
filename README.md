@@ -17,7 +17,7 @@ A powerful yet minimal command-line tool to scan your local network, identify ac
 - Clean CLI interface with zero dependencies on fancy UIs
 
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Run the CLI tool with:
 
