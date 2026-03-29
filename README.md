@@ -47,7 +47,7 @@ python cli.py
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 * [Python](https://www.python.org/) 3.11+
 * [Scapy](https://scapy.net/) – For crafting packets
