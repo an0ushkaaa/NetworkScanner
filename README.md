@@ -1,11 +1,6 @@
-# 🔍 Network Scanner CLI
+#  Network Scanner CLI
 
 A powerful yet minimal command-line tool to scan your local network, identify active devices, resolve hostnames, and detect open ports — built with Python.
-
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ---
 
 ## Features
@@ -49,8 +44,6 @@ Run the CLI tool with:
 ```bash
 python cli.py
 ```
-
-And follow the interactive prompts. That's it!
 
 ---
 
